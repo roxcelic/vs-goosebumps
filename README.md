@@ -14,7 +14,7 @@ who wants a theme based on an old 90s show? Me, I do. So here we are.
 
 ## extra info,
 
-This theme contains:
+* This theme contains:
     - goosebumps (light)
     - goosebumps (dark)
 
