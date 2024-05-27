@@ -1,0 +1,32 @@
+{
+  "name": "goosebumps",
+  "displayName": "goosebumps",
+  "description": "User beware, you're in for a scare...",
+  "version": "0.0.1",
+  "author": "roxcelic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roxcelic/themes/tree/goosebumps"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "goosebumps (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/goosebumps-color-theme.json"
+      },
+      {
+        "label": "goosebumps (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/goosebumps-light-color-theme.json"
+      }
+    ]
+  }
+}
