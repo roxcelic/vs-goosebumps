@@ -1,14 +1,5 @@
-# Ignore node_modules directory
 node_modules/
-
-# Ignore Visual Studio Code workspace settings
 .vscode/
-
-# Ignore any local settings files
 *.local
-
-# Ignore npm-debug.log files
 npm-debug.log*
-
-# Ignore macOS file system metadata files
 .DS_Store
