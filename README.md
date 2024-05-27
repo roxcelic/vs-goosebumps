@@ -11,6 +11,8 @@ who wants a theme based on an old 90s show? Me, I do. So here we are.
     - ## for marketplace viewers
     - if you would like to check out more things ive made check out my [github](https://github.com/roxcelic)
     - if you would like to checkout the git repo for this come to [here](https://github.com/roxcelic/themes)
+    - ## for github viewers
+    - if you would like you can check it out on the vscode marketplace [here](https://marketplace.visualstudio.com/items?itemName=roxcelic.goosebumps)
 
 ## extra info,
 
