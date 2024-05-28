@@ -30,11 +30,5 @@
         "path": "./themes/summer-light-color-theme.json"
       }
     ]
-  },
-  "files": [
-    "images",
-    "themes",
-    "README.md",
-    "package.json"
-  ]
+  }
 }

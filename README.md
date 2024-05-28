@@ -3,7 +3,7 @@ So this is a theme I wasnt sure if I would actually end up making but the harsh 
 
 ## preview
 ### light:
-![light](https://images.roxcelic.love/images/summer/dark.png)
+![light](https://images.roxcelic.love/images/summer/light.png)
 ### dark:
 ![dark](https://images.roxcelic.love/images/summer/dark.png)
 ---
