@@ -2,11 +2,11 @@
   "name": "summer-nights-roxcelic",
   "displayName": "lucid summer nights",
   "description": "a theme based around spending time around a campfire in summer",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "author": "roxcelic",
   "license": "MIT",
   "publisher": "roxcelic",
-  "icon":"icon.png",
+  "icon":"images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/roxcelic/themes/tree/summer"
@@ -30,5 +30,11 @@
         "path": "./themes/summer-light-color-theme.json"
       }
     ]
-  }
+  },
+  "files": [
+    "images",
+    "themes",
+    "README.md",
+    "package.json"
+  ]
 }
