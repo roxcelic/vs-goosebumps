@@ -119,7 +119,18 @@
         "tab.activeBorderTop": "#FFFFFF",
         "tab.activeModifiedBorder": "#FFA500",
         "tab.hoverBackground": "#002800",
-           "tab.unfocusedHoverBackground": "#002800"
+        "tab.unfocusedHoverBackground": "#002800",
+
+        "button.background": "#00ff0d",
+        "button.foreground": "#002800",
+        "button.hoverBackground": "#00ff0d",
+        "button.secondaryBackground": "#002800",
+        "button.secondaryForeground": "#00ff0d",
+        "button.secondaryHoverBackground": "#002800",
+        "button.border": "#002800",
+        "badge.background": "#00ff0d",
+
+        "focusBorder": "#002800"
     },  
     "tokenColors": [
         {
