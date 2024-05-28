@@ -1,0 +1,34 @@
+{
+  "name": "summer-nights",
+  "displayName": "summer nights",
+  "description": "a theme based around spending time around a campfire in summer",
+  "version": "1.0.0",
+  "author": "roxcelic",
+  "license": "MIT",
+  "publisher": "roxcelic",
+  "icon":"icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roxcelic/themes/tree/summer"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sumer (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/summer-color-theme.json"
+      },
+      {
+        "label": "sumer (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/summer-light-color-theme.json"
+      }
+    ]
+  }
+}
