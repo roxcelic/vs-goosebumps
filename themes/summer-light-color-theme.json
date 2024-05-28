@@ -11,7 +11,7 @@
         "activityBarBadge.background": "#FFDDE1",
         "activityBarBadge.foreground": "#4B1D1D",
     
-        "editor.background": "#4B1D1D",
+        "editor.background": "#240909",
         "editor.foreground": "#FFDDE1",
         "editorCursor.foreground": "#FFDDE1",
         "editor.lineHighlightBackground": "#7B3030",
