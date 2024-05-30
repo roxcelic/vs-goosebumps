@@ -1,0 +1,76 @@
+/**
+* @author roxcelic
+* @name Summer Discord Theme
+* @version 1.0
+* @description a theme I made to match my vs code theme "summer nights"
+*/
+
+.theme-dark {
+    --text-normal: #FFDDE1;
+    --header-primary: #FFDDE1;
+    --interactive-normal: #7B3030;
+    --channels-default: #FFDDE1;
+    --text-muted: #FFDDE1;
+    --interactive-muted: #7B3030;
+    --header-secondary: #FFDDE1;
+    --interactive-hover: #FFDDE1;
+    --interactive-active: #FFDDE1;
+    --background-primary: #000000;
+    --background-secondary: #250d0d;
+    --background-secondary-alt: #3d1414;
+    --background-tertiary: #7B3030;
+    --background-floating: #000000;
+    --background-accent: #FFDDE1;
+    --channeltextarea-background: var(--background-secondary);
+    --modal-background: var(--background-primary);
+    --background-modifier-hover: rgba(123, 48, 48, 0.3);
+    --background-modifier-active: rgba(123, 48, 48, 0.5);
+    --background-modifier-selected: rgba(123, 48, 48, 0.6);
+    --toast-background: #000000 ;
+    --toast-header: #7B3030 ;
+    --toast-contents: #250d0d ;
+    --toast-border: #250d0d ;
+    --input-background: var(--background-secondary);
+    --scrollbar-auto-thumb: var(--background-tertiary);
+    --scrollbar-auto-track: var(--background-secondary-alt);
+    --scrollbar-thin-thumb: var(--background-tertiary);
+    --scrollbar-thin-track: transparent;
+    --channel-text-area-placeholder: var(--interactive-normal);
+    --deprecated-quickswitcher-input-background: var(--background-primary);
+}
+  
+.theme-light {
+    --text-normal: #FFFFFF;
+    --header-primary: #FFFFFF;
+    --interactive-normal: #FFFFFF;
+    --channels-default: #FFFFFF;
+    --text-muted: #FFDDE1;
+    --interactive-muted: #FFDDE1;
+    --header-secondary: #FFDDE1;
+    --interactive-hover: #FFDDE1;
+    --interactive-active: #FFDDE1;
+    --background-primary: #240909;
+    --background-secondary: #4B1D1D;
+    --background-secondary-alt: #7B3030;
+    --background-tertiary: #7B3030;
+    --background-floating: #7B3030;
+    --background-accent: #FFDDE1;
+    --channeltextarea-background: #4B1D1D;
+    --modal-background: #7B3030;
+    --background-modifier-hover: rgba(255, 221, 225, 0.062);
+    --background-modifier-active: rgba(123, 48, 48, 0.123);
+    --background-modifier-selected: rgba(255, 221, 225, 0.11);
+    --toast-background: #240909;
+    --toast-header: #7B3030;
+    --toast-contents: #FFDDE1;
+    --toast-border: #7B3030 ;
+    --input-background: #4B1D1D;
+    --scrollbar-auto-thumb: #7B3030;
+    --scrollbar-auto-track: #7B3030;
+    --scrollbar-thin-thumb: #7B3030;
+    --scrollbar-thin-track: transparent;
+    --channel-text-area-placeholder: #7B3030;
+    --deprecated-quickswitcher-input-background: #240909;
+}
+
+
