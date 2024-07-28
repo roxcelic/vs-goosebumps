@@ -5,10 +5,10 @@ but i noticed there wasnt any themes for it on the Vs code marketplace and yeah 
 who wants a theme based on an old 90s show? Me, I do. So here we are.
 
 ## preview
-### light:
-![light](https://images.roxcelic.love/images/goosebumps/light.png)
+### light
+![light](https://files.roxcelic.love/themes/goosebumps-light.png)
 ### dark:
-![dark](https://images.roxcelic.love/images/goosebumps/dark.png)
+![dark](https://files.roxcelic.love/themes/goosebumps-dark.png)
 ---
 
 * what you need to know:
